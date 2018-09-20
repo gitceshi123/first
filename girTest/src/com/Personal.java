@@ -9,8 +9,16 @@ public class Personal implements Serializable{
 	
 	private String address;
 	private String phone;
+	private String flag;
 	
 	
+	
+	public String getFlag() {
+		return flag;
+	}
+	public void setFlag(String flag) {
+		this.flag = flag;
+	}
 	public String getPhone() {
 		return phone;
 	}

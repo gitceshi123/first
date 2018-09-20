@@ -18,7 +18,7 @@ public class Personal implements Serializable{
 	public void setFlag(String flag) {
 		this.flag = flag;
 	}
-	public St	public String getPhone() {
+		public String getPhone() {
 		return phone;
 	}
 	public void setPhone(String phone) {

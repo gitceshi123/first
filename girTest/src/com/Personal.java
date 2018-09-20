@@ -11,14 +11,22 @@ public class Personal implements Serializable{
 	private String phone;
 	private String flag;
 	
+	private String size;
 	
+	
+	public String getSize() {
+		return size;
+	}
+	public void setSize(String size) {
+		this.size = size;
+	}
 	public String getFlag() {
 		return flag;
 	}
 	public void setFlag(String flag) {
 		this.flag = flag;
 	}
-		public String getPhone() {
+	public String getPhone() {
 		return phone;
 	}
 	public void setPhone(String phone) {

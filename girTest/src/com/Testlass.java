@@ -11,5 +11,9 @@ public class Testlass {
 	private String deal(String a){
 		return a+1;
 	}
+	
+	private  String age(String age){
+		return age+20;
+	}
 
 }

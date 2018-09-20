@@ -6,6 +6,15 @@ public class Personal implements Serializable{
 	private String age;
 	private String  name;
 	private String sex;
+	
+	private String address;
+	
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
 	public String getAge() {
 		return age;
 	}

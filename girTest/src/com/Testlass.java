@@ -7,5 +7,9 @@ public class Testlass {
 		int sum = testGit.sum(1,2);
 		System.out.println("sum"+sum);
 	}
+	
+	private String deal(String a){
+		return a+1;
+	}
 
 }

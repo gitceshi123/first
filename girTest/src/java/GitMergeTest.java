@@ -9,4 +9,9 @@ public class GitMergeTest {
 		teacher.zoo();
 		
 	}
+	
+	
+	private int sum(int x,int y ){
+		return x+y;
+	}
 }

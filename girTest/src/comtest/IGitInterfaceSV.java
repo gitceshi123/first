@@ -11,4 +11,10 @@ public class IGitInterfaceSV implements IGitInterface{
 		return testGit;
 	}
 
+	@Override
+	public void getTestGit(String billId) throws Exception {
+		String[] billIdArr = billId.split("*");
+		
+	}
+
 }

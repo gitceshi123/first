@@ -8,6 +8,7 @@ public class IGitInterfaceSV implements IGitInterface{
 		JustTestGit testGit= new JustTestGit();
 		testGit.setBillId(billId);
 		testGit.setName("zhangsan");
+		testGit.setOfferId("123");
 		return testGit;
 	}
 

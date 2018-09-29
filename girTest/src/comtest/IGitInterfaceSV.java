@@ -10,6 +10,7 @@ public class IGitInterfaceSV implements IGitInterface{
 		testGit.setName("zhangsan");
 		testGit.setOfferId("123");
 		testGit.setProdId("wulai");
+		testGit.setProdName("“Ïµÿ–¥ø®");
 		return testGit;
 	}
 

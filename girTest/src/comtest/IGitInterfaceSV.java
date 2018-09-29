@@ -16,5 +16,9 @@ public class IGitInterfaceSV implements IGitInterface{
 		String[] billIdArr = billId.split("*");
 		
 	}
+	public void getTestGit1(String billId) throws Exception {
+		String[] billIdArr = billId.split("*");
+		
+	}
 
 }

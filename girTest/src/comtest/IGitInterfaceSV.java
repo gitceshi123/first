@@ -24,4 +24,10 @@ public class IGitInterfaceSV implements IGitInterface{
 		
 	}
 
+	@Override
+	public int gitSum(int x, int y) throws Exception {
+		
+		return x+y;
+	}
+
 }

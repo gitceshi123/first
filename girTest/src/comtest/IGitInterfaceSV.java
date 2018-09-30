@@ -30,4 +30,12 @@ public class IGitInterfaceSV implements IGitInterface{
 		return x+y;
 	}
 
+	
+
+	@Override
+	public String getString(String bil) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

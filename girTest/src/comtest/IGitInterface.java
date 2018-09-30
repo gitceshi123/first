@@ -7,5 +7,7 @@ public interface IGitInterface {
 	public void getTestGit(String billId)throws Exception;
 	
 	public int gitSum(int  x ,int y)throws Exception;
+	
+	public String  getString(String bil) throws Exception;;
 
 }

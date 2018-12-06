@@ -12,5 +12,7 @@ public class TestGit {
 		return x+y;
 	}
 	
-	
+	public void sam(){
+		System.out.println("git²âÊÔ2");
+	}
 }

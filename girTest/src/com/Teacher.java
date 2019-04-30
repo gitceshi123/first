@@ -9,7 +9,7 @@ public class Teacher {
 		personal.setFlag("1");
 		personal.setName("张三");
 		personal.setPhone("13567899001");
-		personal.setSex("5");
+		personal.setSex("7");
 		System.out.println("出参"+personal.toString());
 	}
 	
